@@ -1,5 +1,3 @@
-# salesforce-development
-# My Salesforce journey towards Apex, LWC and real-world projects
 # My Salesforce Journey
 
 This repository documents my journey transitioning from QA to Salesforce Developer.  
